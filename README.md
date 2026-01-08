@@ -14,6 +14,7 @@
   <ul>
     <li>🧑‍💻 20 years old - <b>Castellón de la Plana, Spain</b></li>
     <li>🎓 Graduated in <b>Development of Web Applications at IES EL CAMINÀS</b></li>
+    <li>📚 Currently studying <b>Development of Multiplatform Applications at IES EL CAMINÀS</b></li>
     <li>💻 Passionate about <b>web and movile development, front-end & back-end technologies</b></li>
     <li>🔐 Planning to specialize in <b>Artificial intelligence and big data at IES EL CAMINÀS</b></li>
     <li>🚀 Always <b>learning and improving</b> my coding skills</li>

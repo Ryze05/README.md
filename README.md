@@ -177,6 +177,18 @@
           </tr>
         </table>
       </div>
+      <h3>Movile projects</h3>
+      <div>
+        <h4>FormaFit (app entrenamientos con IA)</h4>
+        <table>
+          <tr>
+            <th>Repository</th>
+          </tr>
+          <tr>
+            <td>https://github.com/Ryze05/proyecto_multimedia</td>
+          </tr>
+        </table>
+      </div>
 
   <h2>CONTACT ME</h2>
   <ul>

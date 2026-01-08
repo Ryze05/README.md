@@ -161,7 +161,7 @@
           </tr>
           <tr>
             <td>https://quicktrade1.netlify.app</td>
-            <td>https://github.com/Rommel05/e-commerce</td>
+            <td>https://github.com/Ryze05/e-commerce</td>
           </tr>
         </table>
       </div>
@@ -173,7 +173,7 @@
             <th>Repository</th>
           </tr>
           <tr>
-            <td>https://github.com/Rommel05/TinderF</td>
+            <td>https://github.com/Ryze05/TinderF</td>
           </tr>
         </table>
       </div>

@@ -80,7 +80,7 @@
       </p>
     </li>
     <li>
-      <h4>Frameworks & UI</h4>
+      <h4>UI</h4>
     <p>
       <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" alt="jetpack compose" width="40" height="40" />
     </p>

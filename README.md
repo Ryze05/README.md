@@ -194,7 +194,7 @@
   <ul>
     <li>
       <p>
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Rommel Romero" height="30" width="40" /> -> [Rommel Romero](https://www.linkedin.com/in/rommel-romero)
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Rommel Romero" height="30" width="40" /> -> <a href="https://www.linkedin.com/in/rommel-romero" target="_blank">Rommel Romero</a>
       </p>
     </li>
     <li>

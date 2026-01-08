@@ -173,7 +173,7 @@
             <th>Repository</th>
           </tr>
           <tr>
-            <td>https://github.com/Ryze05/TinderF</td>
+            <td>https://github.com/Ryze05/symfony-tinder</td>
           </tr>
         </table>
       </div>

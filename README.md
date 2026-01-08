@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Frontend+Developer;Backend+Developer;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Movile+Developer;Frontend+Developer;Backend+Developer;">
   </a>
 </p>
 
@@ -14,7 +14,7 @@
   <ul>
     <li>🧑‍💻 20 years old - <b>Castellón de la Plana, Spain</b></li>
     <li>🎓 Graduated in <b>Development of Web Applications at IES EL CAMINÀS</b></li>
-    <li>💻 Passionate about <b>web/movile development, front-end & back-end technologies</b></li>
+    <li>💻 Passionate about <b>web and movile development, front-end & back-end technologies</b></li>
     <li>🔐 Planning to specialize in <b>Artificial intelligence and big data at IES EL CAMINÀS</b></li>
     <li>🚀 Always <b>learning and improving</b> my coding skills</li>
   </ul>
@@ -77,6 +77,7 @@
       <h4>Relational Databases</h4>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+        &nbsp;&nbsp;&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  
       </p>
     </li>
@@ -84,6 +85,7 @@
       <h4>Non-relational Databases</h4>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+        &nbsp;&nbsp;&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
       </p>
     </li>
@@ -92,12 +94,14 @@
   <h3>🧑‍💻 Version Control</h3>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    &nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
   </p>
 
   <h3>⚙️ DevOps</h3>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    &nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </p>
 

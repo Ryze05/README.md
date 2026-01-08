@@ -35,8 +35,12 @@
     <li>
       <h4>Frameworks & Libraries</h4>
       <p>
+        <img src="https://cdn.simpleicons.org/react/61DAFB" alt="react" width="40" height="40" />
+        &nbsp;&nbsp;&nbsp;
         <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="next" width="40" height="40" />
+        &nbsp;&nbsp;&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+        &nbsp;&nbsp;&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
       </p>
     </li>

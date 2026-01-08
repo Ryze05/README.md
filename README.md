@@ -71,6 +71,23 @@
     </li>
   </ul>
   
+  <h3>📱 Mobile</h3>
+  <ul>
+    <li>
+      <h4>Languages</h4>
+      <p>
+        <img src="https://cdn.simpleicons.org/kotlin/7F52FF" alt="kotlin" width="40" height="40" />
+      </p>
+    </li>
+    <li>
+      <h4>Frameworks & UI</h4>
+    <p>
+      <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" alt="jetpack compose" width="40" height="40" />
+    </p>
+  </li>
+</ul>
+
+  
   <h3>🗄️ Databases</h3>
   <ul>
     <li>

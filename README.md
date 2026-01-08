@@ -12,10 +12,10 @@
   <h2>ABOUT ME</h2>
   
   <ul>
-    <li>🧑‍💻 19 years old - <b>Castellón de la Plana, Spain</b></li>
+    <li>🧑‍💻 20 years old - <b>Castellón de la Plana, Spain</b></li>
     <li>🎓 Graduated in <b>Development of Web Applications at IES EL CAMINÀS</b></li>
-    <li>💻 Passionate about <b>web development, front-end & back-end technologies</b></li>
-    <li>🔐 Planning to specialize in <b>Cybersecurity at IES EL CAMINÀS</b> to enhance my secure software development skills</li>
+    <li>💻 Passionate about <b>web/movile development, front-end & back-end technologies</b></li>
+    <li>🔐 Planning to specialize in <b>Artificial intelligence and big data at IES EL CAMINÀS</b></li>
     <li>🚀 Always <b>learning and improving</b> my coding skills</li>
   </ul>
 
@@ -35,6 +35,7 @@
     <li>
       <h4>Frameworks & Libraries</h4>
       <p>
+        <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="next" width="40" height="40" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
       </p>

@@ -186,7 +186,7 @@
             <th>Repository</th>
           </tr>
           <tr>
-            <td>https://github.com/Ryze05/proyecto_multimedia</td>
+            <td>https://github.com/Ryze05/FormaFit</td>
           </tr>
         </table>
       </div>

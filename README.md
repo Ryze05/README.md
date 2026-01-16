@@ -180,7 +180,7 @@
       </div>
       <h3>Movile projects</h3>
       <div>
-        <h4>FormaFit (app entrenamientos con IA)</h4>
+        <h4>FormaFit (AI training app)</h4>
         <table>
           <tr>
             <th>Repository</th>

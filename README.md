@@ -166,6 +166,17 @@
           </tr>
         </table>
       </div>
+      <div>
+        <h4>Landing Startup</h4>
+        <table>
+          <tr>
+            <th>Link</th>
+          </tr>
+          <tr>
+            <td>https://ryzeck.com/</td>
+          </tr>
+        </table>
+      </div>
       <h3>Backend projects</h3>
       <div>
         <h4>Clon tinder</h4>

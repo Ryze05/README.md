@@ -212,7 +212,7 @@
   <ul>
     <li>
       <p>
-        <a>linkedin.com/in/rommel-romero</a>
+        <a href="linkedin.com/in/rommel-romero">Mi linkedin</a>
       </p>
     </li>
     <li>

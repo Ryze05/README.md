@@ -165,13 +165,22 @@
       </div>
       <h3>Backend projects</h3>
       <div>
-        <h4>Clon tinder</h4>
+        <h4>Clon tinder (Symfony - mySql)</h4>
         <table>
           <tr>
             <th>Repository</th>
           </tr>
           <tr>
             <td>https://github.com/Ryze05/symfony-tinder</td>
+          </tr>
+        </table>
+        <h4>API Sneakers (Nest - mongo)</h4>
+        <table>
+          <tr>
+            <th>Repository</th>
+          </tr>
+          <tr>
+            <td>https://github.com/Ryze05/sneackersAPI</td>
           </tr>
         </table>
       </div>
@@ -203,12 +212,12 @@
   <ul>
     <li>
       <p>
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Rommel Romero" height="30" width="40" /> -> <a href="https://www.linkedin.com/in/rommel-romero" target="_blank">Rommel Romero</a>
+        linkedin.com/in/rommel-romero
       </p>
     </li>
     <li>
       <p>
-        <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Email - Rommel Romero" height="30" width="40" /> -> rrommel5@gmail.com
+        rrommel5@gmail.com
       </p>
     </li>
   </ul>

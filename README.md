@@ -174,7 +174,16 @@
             <td>https://github.com/Ryze05/symfony-tinder</td>
           </tr>
         </table>
-        <h4>API Sneakers (Nest - mongo)</h4>
+        <h4>Eventpass (spring boot - mySql)</h4>
+        <table>
+          <tr>
+            <th>Repository</th>
+          </tr>
+          <tr>
+            <td>https://github.com/Ryze05/eventpass-backend</td>
+          </tr>
+        </table>
+        <h4>API Sneakers (NestJS - mongo)</h4>
         <table>
           <tr>
             <th>Repository</th>
@@ -204,6 +213,17 @@
           </tr>
           <tr>
             <td>https://github.com/Ryze05/projectManager</td>
+          </tr>
+        </table>
+      </div>
+      <div>
+        <h4>Eventpass (kotlin)</h4>
+        <table>
+          <tr>
+            <th>Repository</th>
+          </tr>
+          <tr>
+            <td>https://github.com/Ryze05/eventpass-frontend</td>
           </tr>
         </table>
       </div>

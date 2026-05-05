@@ -140,7 +140,7 @@
   <h2>PROJECTS</h2>
     <h3>Frontend projects</h3>
       <div>
-        <h4>E-commerce</h4>
+        <h4>E-commerce (bootstrap)</h4>
         <table>
           <tr>
             <th>Link</th>
@@ -153,7 +153,7 @@
         </table>
       </div>
       <div>
-        <h4>Landing Startup</h4>
+        <h4>Landing Startup (astro)</h4>
         <table>
           <tr>
             <th>Link</th>
@@ -186,7 +186,7 @@
       </div>
       <h3>Movile projects</h3>
       <div>
-        <h4>FormaFit (AI training app)</h4>
+        <h4>FormaFit (kotlin - supabase - movenet - groq API)</h4>
         <table>
           <tr>
             <th>Repository</th>
@@ -197,7 +197,7 @@
         </table>
       </div>
       <div>
-        <h4>Project Manager</h4>
+        <h4>Project Manager (kotlin multiplatform - supabase)</h4>
         <table>
           <tr>
             <th>Repository</th>

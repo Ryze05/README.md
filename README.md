@@ -73,7 +73,7 @@
     <li>
       <h5>Currently Learning</h5>
       <p>
-        <img src="[https://cdn.simpleicons.org/astro/FF5D01](https://cdn.simpleicons.org/nestjs)" alt="nest" width="40" height="40" />
+        <img src="https://cdn.simpleicons.org/nestjs" alt="nest" width="40" height="40" />
       </p>
     </li>
   </ul>

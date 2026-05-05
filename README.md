@@ -174,7 +174,7 @@
             <td>https://github.com/Ryze05/symfony-tinder</td>
           </tr>
         </table>
-        <h4>Eventpass (spring boot - mySql)</h4>
+        <h4>Eventpass backend (spring boot - mySql)</h4>
         <table>
           <tr>
             <th>Repository</th>
@@ -217,7 +217,7 @@
         </table>
       </div>
       <div>
-        <h4>Eventpass (kotlin)</h4>
+        <h4>Eventpass frontend (kotlin)</h4>
         <table>
           <tr>
             <th>Repository</th>

@@ -207,6 +207,17 @@
           </tr>
         </table>
       </div>
+      <div>
+        <h4>Project Manager</h4>
+        <table>
+          <tr>
+            <th>Repository</th>
+          </tr>
+          <tr>
+            <td>https://github.com/Ryze05/projectManager</td>
+          </tr>
+        </table>
+      </div>
 
   <h2>CONTACT ME</h2>
   <ul>

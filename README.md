@@ -110,7 +110,7 @@
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
         &nbsp;&nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+        <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>-->
       </p>
     </li>
   </ul>
@@ -133,29 +133,9 @@
   <ul>
     <li>🤝 Team Collaboration</li>
     <li>🧩 Problem Solving</li>
-    <li>🗣️ Effective Communication</li>
+    <li>🗣️ Fast learning</li>
     <li>⏰ Time Management</li>
   </ul>
-
-  <h2>LANGUAGES</h2>
-  <table>
-    <tr>
-      <th>Language</th>
-      <th>Level</th>
-    </tr>
-    <tr>
-      <td>English</td>
-      <td>B1</td>
-    </tr>
-    <tr>
-      <td>Spanish</td>
-      <td>Native</td>
-    </tr>
-    <tr>
-      <td>Valencian</td>
-      <td>Native</td>
-    </tr>
-  </table>
 
   <h2>PROJECTS</h2>
     <h3>Frontend projects</h3>

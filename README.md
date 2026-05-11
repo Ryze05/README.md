@@ -159,7 +159,7 @@
             <th>Link</th>
           </tr>
           <tr>
-            <td>https://ryzeck.com/</td>
+            <td>https://github.com/Ryze05/Ryzeck-Landing-Page</td>
           </tr>
         </table>
       </div>
